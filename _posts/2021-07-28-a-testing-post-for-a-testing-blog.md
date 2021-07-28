@@ -1,4 +1,9 @@
-# This, my digital friends, is a test title
+---
+title: "A welcome te/([xs])/t "
+date: 2021-07-28
+---
+
+## This, my digital friends, is a test title
 And this, therefore, is a test paragraph
 
 ---
